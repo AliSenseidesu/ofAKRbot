@@ -1,2 +1,0 @@
-# ofAKRbot
-Test bot
